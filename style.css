@@ -1,12 +1,12 @@
 
+
 	#gamingkeyboard {width: 700px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	position: center; 
 	border-radius: 35%;
- 
-	margin-bottom: auto;
+ 	margin-bottom: auto;
 	
 	}
 	
@@ -184,4 +184,14 @@ ul {
 	font-family: 'Silkscreen', sans-serif;
 		font-family: 'Silkscreen Expanded', sans-serif;
 		font-size: 30px;
+		font-family: 'Silkscreen', cursive; 
+		
 	}
+	
+	@import url(//'https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+	
+	
+	
+	
+	
