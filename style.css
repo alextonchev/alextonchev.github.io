@@ -55,14 +55,14 @@
   display: line;
   color: white;
   text-align: center;
-  padding: 100px 25px;
+  padding: 25px 25px;
   text-decoration: none;
   font-size:  36px;
   
   
 	}
-li a:hover {background-color: transparent;
-margin: 100px 25px; 
+li a:hover {background-color:#750d37 ;
+margin: 25px 25px; 
  }
 
 ul {
@@ -76,9 +76,12 @@ ul {
 	h2{ text-align: center;
 		font-size: 45px;
 		font-family: 'Silkscreen', sans-serif;
-		font-family: 'Silkscreen Expanded', sans-serif;
+		text-decoration: none;
+		color: black; 
+		
 	} 
-
+	h2 a{  text-decoration: none;
+			color: black; 						} 
 	#title_metroid {font-family: 'Lobster', cursive;
 			font-size: 44px;
 			background-color:#6A7FDB;
@@ -105,7 +108,7 @@ ul {
 	
 	.aboutgame {
 		text-align: center; 
-		font-family: font-family: 'Lobster', cursive;
+		font-family: 'Bebas Neue', cursive;
 		font-size: 20px;
 		vertical-align: text-top;
 		margin:0px; 
@@ -113,6 +116,9 @@ ul {
 	
 	.top_page_box {
 		outline: 5px solid black; 
+		font-family: 'Silkscreen', cursive;
+		 text-decoration: none;
+	
 	}
 	
 	h1 { 
@@ -125,7 +131,7 @@ ul {
   display: flex;
   align-items: flex-end;
  vertical-align: center; 
- outline: 5px solid #6A7FDB;
+ outline: 5px solid #750d37;
  
 }
 
