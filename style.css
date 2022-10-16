@@ -216,3 +216,8 @@ display: block;
 	footer {outline: 5px solid black; 
 		font-family: 'Silkscreen', cursive;
 	text-decoration: none;} 
+
+   p3 { outline: 5px solid black; 
+		font-family: sans-serif;
+	text-decoration: none;
+   text-align: center; } 
